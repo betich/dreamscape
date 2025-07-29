@@ -37,13 +37,13 @@ maker, where genuine passions are welcomed. Let's redraw our dreamscape—not ju
 
         <div className="flex gap-4 items-center">
           <a
-            href="https://instagram.com"
+            href="https://instagram.com/thedreamscape.space"
             className="underline hover:no-underline"
           >
             Instagram
           </a>
           <a
-            href="https://discord.com"
+            href="https://discord.gg/nxgKuD9G"
             className="underline hover:no-underline"
           >
             Discord
