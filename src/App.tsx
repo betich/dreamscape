@@ -43,7 +43,7 @@ maker, where genuine passions are welcomed. Let's redraw our dreamscape—not ju
             Instagram
           </a>
           <a
-            href="https://discord.gg/nxgKuD9G"
+            href="https://discord.gg/tJDkCa7HVd"
             className="underline hover:no-underline"
           >
             Discord
